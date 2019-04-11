@@ -1,4 +1,4 @@
-package com.spark.boilerplate
+package com.fabulous.lab.spark.boilerplate
 
 import org.apache.spark.sql.SparkSession
 
