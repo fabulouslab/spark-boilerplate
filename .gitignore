@@ -1,0 +1,32 @@
+
+# Created by .ignore support plugin (hsz.mobi)
+
+=======
+### SBT
+target
+project
+
+.history
+
+
+### Idea IDE
+.idea
+
+### Scala
+
+### Vagrant
+.vagrant
+
+### Hive
+metastore_db
+
+*.iml
+
+/bv-mcg/dependency-reduced-pom.xml
+/bv-mcg/derby.log
+/perle/derby.log
+
+
+derby.log
+### resources files
+
