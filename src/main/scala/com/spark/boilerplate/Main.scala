@@ -1,3 +1,5 @@
+package com.spark.boilerplate
+
 import org.apache.spark.sql.SparkSession
 
 object Main {
