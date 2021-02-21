@@ -12,9 +12,9 @@
         <jdk.version.source>1.8</jdk.version.source>
         <jdk.version.target>1.8</jdk.version.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <scala.version>2.11.8</scala.version>
-        <spark.version>2.4.0</spark.version>
-        <scala.version.maj>2.11</scala.version.maj>
+        <scala.version>2.12.10</scala.version>
+        <spark.version>3.0.1</spark.version>
+        <scala.version.maj>2.12</scala.version.maj>
     </properties>
 
     <dependencies>
@@ -43,7 +43,7 @@
         <dependency>
             <groupId>com.holdenkarau</groupId>
             <artifactId>spark-testing-base_${scala.version.maj}</artifactId>
-            <version>${spark.version}_0.11.0</version>
+            <version>${spark.version}_1.0.0</version>
             <scope>test</scope>
         </dependency>
         <dependency>
