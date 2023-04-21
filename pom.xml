@@ -13,7 +13,7 @@
         <jdk.version.target>1.8</jdk.version.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <scala.version>2.12.10</scala.version>
-        <spark.version>3.0.1</spark.version>
+        <spark.version>3.4.0</spark.version>
         <scala.version.maj>2.12</scala.version.maj>
     </properties>
 
